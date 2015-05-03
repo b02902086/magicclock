@@ -6,7 +6,11 @@ android {
 
     defaultConfig {
         applicationId "com.example.mac.magiclock"
+<<<<<<< HEAD
         minSdkVersion 19
+=======
+        minSdkVersion 15
+>>>>>>> 37aee163542dcb49a1cee24a78a4bfc9ed5b4664
         targetSdkVersion 21
         versionCode 1
         versionName "1.0"
@@ -21,8 +25,13 @@ android {
 
 dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
+<<<<<<< HEAD
     compile 'com.android.support:appcompat-v7:22.0.0'
     compile('de.keyboardsurfer.android.widget:crouton:1.8.5@aar') {
         exclude group: 'com.google.android', module: 'support-v4'
     }
+=======
+    compile 'com.android.support:appcompat-v7:22.1.1'
+    compile 'com.android.support:support-v4:22.1.1'
+>>>>>>> 37aee163542dcb49a1cee24a78a4bfc9ed5b4664
 }

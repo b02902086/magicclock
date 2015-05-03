@@ -3,7 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MAGIClock.iml" filepath="$PROJECT_DIR$/MAGIClock.iml" />
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+=======
+>>>>>>> 37aee163542dcb49a1cee24a78a4bfc9ed5b4664
     </modules>
   </component>
 </project>
